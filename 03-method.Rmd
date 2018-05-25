@@ -7,3 +7,4 @@ load('datos2.RData')
 plot(datos$a,datos$b)
 ```
 
+Nada más para intentar por acá
